@@ -1,7 +1,7 @@
 {
   "name": "login-ui",
   "group": "microportal",
-  "version": "1.0.0-SNAPSHOT",
+  "version": "1.0.0",
   "description": "Microfrontend Login module",
   "scripts": {
     "start": "NODE_ENV=development webpack-dev-server --port 9001 --hot --host 0.0.0.0",
