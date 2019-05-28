@@ -33,11 +33,4 @@ module.exports = {
         ],
     },
     devtool: 'eval-source-map',
-    // devServer: {
-    //     http2: true,
-    //     https: {
-    //         key: fs.readFileSync('nginx/microportal.key'),
-    //         cert: fs.readFileSync('nginx/microportal.crt')
-    //     }
-    // }
-};
+}
